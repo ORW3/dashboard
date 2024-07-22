@@ -1,6 +1,6 @@
 # Dashboard
 
-
+![Screenshot](https://github.com/user-attachments/assets/ff714adf-e9db-433f-bea1-96d993d043ad)
 
 ### Flutter
 For help getting started with Flutter, view our
