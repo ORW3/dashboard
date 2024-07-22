@@ -1,6 +1,6 @@
-# FaceNetAuthentication
+# Dashboard
 
-Simple face recognition authentication (Sign up + Sign in) written in Flutter using Tensorflow Lite and Google ML Kit library.
+
 
 ### Flutter
 For help getting started with Flutter, view our
